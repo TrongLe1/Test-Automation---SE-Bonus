@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create a new user (default role)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb9e5a64-41a3-4816-a780-e6c445e6a0e1</testCaseGuid>
+</TestCaseEntity>
